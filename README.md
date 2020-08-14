@@ -58,12 +58,12 @@ $ python ipdrone.py -v (your victim ip here)
 ex:- python ipdrone.py -v 127.0,0.1
 
 
-#### > Run : `python ipdrone.py -v (your victim ip here)`
+# >Run : `python ipdrone.py -v (your victim ip here)`
 
-## Single Command :
-```
-apt update ; apt install git curl -y ; git clone
-```
+
+
+
+
 <br>
 <p align="center">
 <img width="50%" src="https://raw.githubusercontent.com/Tetrodotoxin2-0"/>
