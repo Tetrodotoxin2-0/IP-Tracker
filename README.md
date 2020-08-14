@@ -3,7 +3,7 @@
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Tetrodotoxin 2.0" src="https://avatars0.githubusercontent.com/u/69615429?v=4"></a>
+<a href="#"><img title="Tetrodotoxin 2.0" src="https://raw.githubusercontent.com/Tetrodotoxin2-0/IP-Tracker/master/IP-TRACKER.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Tetrodotoxin2-0"><img title="Author" src="https://img.shields.io/badge/Author-Tetrodotoxin2--0-red.svg?style=for-the-badge&logo=github"></a>
